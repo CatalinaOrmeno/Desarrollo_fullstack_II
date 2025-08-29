@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+/*Selector por etiqueta*/
+main{
+    margin: 10px;
+}
+
+/*Selector por clase*/
+.main__lista{
+    color: blue;
+}
+
+/*Selector por id*/
+#parrafo_1{
+    color: brown;
+}
+
+#parrafo_2{
+    font-weight: bold;
+}
